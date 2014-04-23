@@ -8,6 +8,8 @@
 
 #import "VOIPBackground.h"
 
+#import <UIKit/UIKit.h>
+
 @interface VOIPBackground ()
 
 @property (nonatomic) UIBackgroundTaskIdentifier bgTask;
