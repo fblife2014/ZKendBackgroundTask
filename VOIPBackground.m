@@ -8,7 +8,6 @@
 
 #import "VOIPBackground.h"
 
-#import <UIKit/UIKit.h>
 
 @interface VOIPBackground ()
 
